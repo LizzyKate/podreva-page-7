@@ -1,0 +1,25 @@
+.podreva{
+    background-color: darkcyan;
+}
+.info{
+    background-color: lightgray;
+}
+button{
+    background-color: white;
+    color: grey;
+}
+.below .para{
+    color: black;
+}
+.below p{
+    color: blue;
+}
+header{
+    background-color: darkblue;
+}
+.starter{
+    background-color: darkblue;
+}
+.line p, .company h4, .product h4, .company p, .product p, footer{
+    color: white;
+}
