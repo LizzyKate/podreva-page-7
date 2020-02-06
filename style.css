@@ -1,25 +1,25 @@
-.podreva{
-    background-color: darkcyan;
+.stretch{
+    background-color: #24279D !important;
+}
+.list a{
+    color:#FFFFFF !important;
 }
 .info{
-    background-color: lightgray;
+    background-color:#737474 !important;
 }
-button{
-    background-color: white;
-    color: grey;
+.info p{
+    color:#4A4649;
 }
-.below .para{
-    color: black;
+.me{
+    background-color: #FFFFFF !important;
+    color:#4A4649 !important;
+}
+.below h4{
+    color: #4A4649;
 }
 .below p{
-    color: blue;
+    color:#24279D;
 }
-header{
-    background-color: darkblue;
-}
-.starter{
-    background-color: darkblue;
-}
-.line p, .company h4, .product h4, .company p, .product p, footer{
-    color: white;
+.short h5, .line p, .company h5, .product h5, .company p, .product p, footer{
+    color: #FFFFFF;
 }
